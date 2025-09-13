@@ -8,7 +8,9 @@ public class hungry {
         if(hungry)
         {
             System.out.println("eat shawarma");
-            System.out.println("have some juice");
+            System.out.println("eat samosa");
+            System.out.println("eat egg");
+            System.out.println("eat burger");
         }
         else
         {
