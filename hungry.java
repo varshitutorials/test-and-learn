@@ -4,9 +4,14 @@ public class hungry {
     {
         System.out.println("are you hungry");
         boolean hungry=true;
+        boolean angry=true;
 
         if(hungry)
         {
+            if(angry)
+            {
+                System.out.println("sorry gor being late");
+            }
             System.out.println("eat shawarma");
         }
         else
