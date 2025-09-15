@@ -5,6 +5,7 @@ public class hungry {
         System.out.println("are you hungry");
         boolean hungry=true;
         boolean angry=true;
+        System.out.println("heyy i added a new line here");
 
         if(hungry)
         {
