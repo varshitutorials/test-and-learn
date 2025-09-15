@@ -9,6 +9,8 @@ public class hungry {
         System.out.println("hey may be we cam to an end");
         System.out.println("my life my rules");
         System.out.println("please do it this time ");
+        System.out.println("I am remote change");
+
 
         if(hungry)
         {
