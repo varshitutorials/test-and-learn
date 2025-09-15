@@ -13,6 +13,7 @@ public class hungry {
                 System.out.println("sorry gor being late");
             }
             System.out.println("eat shawarma");
+
             System.out.println("eat panipuri");
         }
         else
