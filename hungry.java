@@ -6,6 +6,7 @@ public class hungry {
         boolean hungry=true;
         boolean angry=true;
         System.out.println("heyy i added a new line here");
+        System.out.println("hey may be we cam to an end");
 
         if(hungry)
         {
